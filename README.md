@@ -83,7 +83,7 @@ Open the local URL displayed in the terminal to view the project in your browser
 
 ### 👩‍💻 Author
 
-**Adeeba333**
+**Mahmuda Adeeba Tul Husna**
 
 ---
 
