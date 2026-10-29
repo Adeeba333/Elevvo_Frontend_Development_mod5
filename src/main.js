@@ -6,7 +6,7 @@ document.querySelector('#app').innerHTML = `
     <section class="max-w-3xl text-center">
 
       <p class="text-sm md:text-base font-semibold tracking-widest text-purple-400 mb-4">
-        FRONTEND DEVELOPMENT
+        FRONTEND DEVELOPMENT | MODULE 5
       </p>
 
       <h1 class="text-4xl md:text-6xl font-bold leading-tight mb-6">
